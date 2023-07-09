@@ -19,8 +19,8 @@ This project is a Twitter mobile application developed using React Native, TypeS
 - Home: Displays users' tweets and real-time updates.
 - Explore: Provides features for exploring popular tweets, trends, and recommended accounts.
 - Notifications: Shows mentions, likes, and retweets received by the user.
-- Messages: Enables users to chat with other users.
-- Profile: Displays user account information, tweets, and follower/following counts.
+- Messages: Enables users to chat with other users. (**_Not Implemented_**)
+- Profile: Displays user account information, tweets, and follower/following counts. (**_Not Implemented_**)
 
 ## Installation
 

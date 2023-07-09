@@ -1,0 +1,13 @@
+[
+    {
+        "fullName": "Hakan Yücel",
+        "username": "hakannyucel",
+        "publishDate": "2021-05-12T00:00:00.000Z",
+        "content": "Test",
+        "commentCount": 25,
+        "retweetCount": 15,
+        "likeCount": 10,
+        "shareCount": 5,
+        "isLiked": false
+    }
+]
